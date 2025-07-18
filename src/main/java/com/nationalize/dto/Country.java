@@ -4,6 +4,8 @@ public class Country{
 	
     public String country_id;
     public double probability;
+    public String zipCode;
+    public String countryName;
     
     
 	/**
